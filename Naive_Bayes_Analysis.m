@@ -1,6 +1,4 @@
-% Yaðýz Türedi 2095719
-% IE460 Coding Assignment 3
-% Part I
+% YaÄŸÄ±z TÃ¼redi
 
 %% Preparation
 
